@@ -1,0 +1,15 @@
+.txt{
+    font-size: 80px;
+}
+
+.imag{
+    float: left;
+    height: 190px;
+    width: 250px;
+}
+
+.contenido{
+    background-color: cornflowerblue;
+    text-align: center;
+
+}
